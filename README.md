@@ -35,6 +35,8 @@ Product Portfolio:
 4. Since most customers who bought **KP781** are male, focus marketing efforts towards males but don't exclude females entirely.
 
 
+
+# 📊DASHBOARD
 Check out my interactive dashboard for the Aerofit Treadmill Case Study:  
 [**Aerofit Tableau Dashboard**](https://public.tableau.com/views/AerofitTreadmillCaseStudy/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 This dashboard visualizes key insights and recommendations for customer trends and treadmill usage patterns.
